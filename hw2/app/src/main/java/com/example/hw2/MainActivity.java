@@ -171,6 +171,10 @@ public class MainActivity extends AppCompatActivity {
     public void calculate(View view) {
         editText = findViewById(R.id.editTextTextPersonName);
         String input = String.valueOf(editText.getText());
+
+        if(input.startsWith("-")){
+            input = "0" + input;
+        }
         String[] nums = input.split("[+-]");
         String[] ops = input.replaceAll("[0-9]+", "").split("");
         int ans = Integer.parseInt(nums[0]);

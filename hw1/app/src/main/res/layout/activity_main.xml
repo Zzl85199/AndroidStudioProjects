@@ -29,9 +29,10 @@
                 android:id="@+id/button3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
                 android:layout_marginLeft="40dp"
                 android:layout_marginRight="40dp"
+                android:layout_weight="1"
+                android:backgroundTint="#9F3B3B"
                 android:text="傳送" />
         </LinearLayout>
 
@@ -59,6 +60,7 @@
                     android:layout_height="wrap_content"
 
                     android:layout_weight="1"
+                    android:backgroundTint="#9ACBF3"
                     android:text="SMALLER" />
 
                 <Button
@@ -67,6 +69,7 @@
                     android:layout_height="wrap_content"
 
                     android:layout_weight="1"
+                    android:backgroundTint="#74E379"
                     android:text="BIGGER"
                     android:textColor="@android:color/holo_red_light" />
             </LinearLayout>
