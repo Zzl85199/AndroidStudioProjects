@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">week7</string>
+    <string-array name="ticket">
+        <item>TPE</item>
+        <item>TAO</item>
+        <item>TAI</item>
+        <item>KAO</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>adult</item>
+        <item>children</item>
+        <item>senior</item>
+    </string-array>
+
+    <string-array name="TPE">
+        <item>美麗華</item>
+        <item>欣欣秀泰</item>
+        <item>京站威秀</item>
+    </string-array>
+
+    <string-array name="TAO">
+        <item>統領影城</item>
+        <item>新光影城</item>
+        <item>A7</item>
+    </string-array>
+
+    <string-array name="TAI">
+        <item>中港新光</item>
+        <item>站前秀泰</item>
+        <item>日日新</item>
+    </string-array>
+
+    <string-array name="KAO">
+        <item>駁二豪華</item>
+        <item>義大國賓</item>
+        <item>夢時代</item>
+    </string-array>
+
+    <string-array name="Discount">
+        <item>不打折</item>
+        <item>9折卷</item>
+        <item>8折卷</item>
+    </string-array>
+
+</resources>
