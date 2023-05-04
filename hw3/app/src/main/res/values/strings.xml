@@ -1,3 +1,35 @@
 <resources>
     <string name="app_name">hw3</string>
+    <string-array name="city">
+        <item>TPE</item>
+        <item>Taichung</item>
+        <item>Kaohsiung</item>
+    </string-array>
+
+    <string-array name="TPE">
+        <item>台北藝文中心</item>
+        <item>台北小巨蛋</item>
+    </string-array>
+
+    <string-array name="Taichung">
+        <item>台中市屯區藝文中心</item>
+        <item>台中國家歌劇院</item>
+    </string-array>
+
+    <string-array name="Kaohsiung">
+        <item>衛武營藝文中心</item>
+        <item>大東表演中心</item>
+    </string-array>
+
+    <string-array name="Performance1">
+        <item>忘憂雜貨店</item>
+        <item>最後14堂週期二的課</item>
+    </string-array>
+
+    <string-array name="Performance2">
+        <item>步步驚笑</item>
+        <item>生命中最美好的五分鐘</item>
+    </string-array>
+
+
 </resources>

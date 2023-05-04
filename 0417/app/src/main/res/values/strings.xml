@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">0417</string>
+    <string-array name="list">
+        <item>TPE</item>
+        <item>TAO</item>
+        <item>Taichung</item>
+        <item>KAO</item>
+    </string-array>
+</resources>
